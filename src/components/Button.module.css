@@ -1,0 +1,19 @@
+.button{
+    width: 25%;
+    height: 16vh;
+    font-size: 2rem;
+    padding: 10px;
+    display: inline;
+}
+
+.button:hover{
+    background-color: rgb(179, 179, 179);
+}
+
+.color{
+    background-color: tomato;
+}
+
+.wide{
+    width: 50%;
+}
